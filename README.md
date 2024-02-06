@@ -16,7 +16,7 @@ Noise is intentionally added to the data but the model is trained to get the ori
 ### Variational Auto-Encoder
 Generate new samples from the end-toend model by just providing the model with some random-noise sample.
 
-- Genearative results from VAE after 10th epoch
+- Generative results from VAE after 10th epoch
 
 <img width="176" alt="image" src="https://github.com/tusharparimi/mnist-autoencoders/assets/93556280/12464d9c-d14d-4868-82f3-32750f4ca7da">
 
